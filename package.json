@@ -1,0 +1,23 @@
+{
+  "name": "multi-threading-nodejs",
+  "version": "1.0.0",
+  "description": "How To Use Multithreading in Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihailgaberov/multi-threading-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mihailgaberov/multi-threading-nodejs/issues"
+  },
+  "homepage": "https://github.com/mihailgaberov/multi-threading-nodejs#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
